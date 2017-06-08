@@ -1,0 +1,8 @@
+# Project specific build directories
+*.user
+*.suo
+*.ncb
+exe/*.ilk
+exe/*.pdb
+debug/*
+
